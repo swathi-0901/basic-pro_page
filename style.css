@@ -1,0 +1,53 @@
+body
+	{
+	background-image:url("https://image.freepik.com/free-psd/abstract-background-design_1297-87.jpg");
+	max-width:100%;
+	height:auto;
+	margin:0;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	}
+h1
+	{
+	font-size:4vw;
+	text-align:center;
+	color:white;
+	}
+h2
+	{
+	background-color:rgb(0,255,255);
+	font-size:2vw;
+	text-align:center;
+	}
+h3
+	{
+	font-family:pursia;
+	font-size:2vw;
+	}
+pre
+	{
+	font-size:2vw;
+	color:rgb(255, 123, 127);
+	font-family:Aclonica;
+	font-weight:bold;
+	}
+img
+	{
+	width:10vw;
+	height:10vw;
+	border:0;
+	}
+.photo
+	{
+	float:left;
+	width:19vw;
+	height:19vw;
+	}		
+
+
+
+
+
+
+
